@@ -1,0 +1,3 @@
+﻿  test6.c
+D:\LJH\cStudy\220408\test6\test6.c(44): warning C4716: 'prime_check': 값을 반환해야 합니다.
+  test6.vcxproj -> D:\LJH\cStudy\220408\test6\Debug\test6.exe
