@@ -1,0 +1,7 @@
+﻿  cQueueS.c
+C:\cStudy\220513\DSch6_2\cQueueS.c(34,25): warning C4033: 'deCQueue'은(는) 값을 반환해야 합니다.
+C:\cStudy\220513\DSch6_2\cQueueS.c(41,25): warning C4033: 'peekCQ'은(는) 값을 반환해야 합니다.
+C:\cStudy\220513\DSch6_2\cQueueS.c(11): warning C4716: 'createCQueue': 값을 반환해야 합니다.
+C:\cStudy\220513\DSch6_2\cQueueS.c(39): warning C4715: 'deCQueue': 모든 제어 경로에서 값을 반환하지는 않습니다.
+C:\cStudy\220513\DSch6_2\cQueueS.c(43): warning C4715: 'peekCQ': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  DSch6_2.vcxproj -> C:\cStudy\220513\DSch6_2\Debug\DSch6_2.exe

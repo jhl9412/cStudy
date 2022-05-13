@@ -1,0 +1,3 @@
+﻿  ex6_3.c
+C:\cStudy\220513\DSch6_3\ex6_3.c(6,8): warning C4013: 'printf'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  DSch6_3.vcxproj -> C:\cStudy\220513\DSch6_3\Debug\DSch6_3.exe
